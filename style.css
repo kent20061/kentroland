@@ -1,0 +1,58 @@
+
+/* heading */
+header {
+  font-size: medium;
+}
+/* BODY */
+body {
+  font-family: Arial, sans-serif;
+  background-color:white;
+  text-align:justify;
+}
+/* heading1 */
+h1 {
+  color: lightgreen;
+  padding: 50px;
+  background-color: blue;
+  border-radius: 8px;
+  margin: 0%;
+  font-size: 40px;
+}
+/* heading2 */
+h2 {
+  color: black;
+  font-size: 20px;
+  margin-left: 30px;
+}
+/* box type */
+.box {
+  background-color: cornflowerblue;
+  font-size: small;
+  box-sizing:border-box;
+  border-radius: 40px;
+  cursor: pointer;
+  margin-inline: 50px;
+}
+/* inside the box */
+section {
+ background-color: cornflowerblue;
+ font-size: large;
+ margin-inline: 50px;
+ padding-inline: 100px;
+ border-radius: 40px;
+}
+/* contacts */
+footer {
+  background-color: blue;
+  padding: 50px;
+  border-radius: 5px;
+  color: lightgreen;
+}
+/* links */
+a {
+  color: lightgreen;
+}
+
+ul {
+  font-size: medium;
+}
